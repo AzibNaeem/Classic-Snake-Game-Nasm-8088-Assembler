@@ -1,6 +1,6 @@
-# 🐍 Retro Snake Game in x86 Assembly
+# 🐍 Retro Snake Game in x86/x88 Assembly
 
-A classic Snake game implemented in x86 assembly language, designed to run as a DOS COM file. This project demonstrates low-level programming with direct hardware access for graphics and input handling.
+A classic Snake game implemented in x86/x88 assembly language, designed to run as a DOS COM file. This project demonstrates low-level programming with direct hardware access for graphics and input handling.
 
 Features
 🕹️ Classic snake gameplay with growing mechanics
