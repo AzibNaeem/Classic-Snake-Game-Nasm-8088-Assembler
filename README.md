@@ -77,7 +77,7 @@ Stack-based parameter passing
 # Requirements
 DOS environment (or DOSBox)
 
-Turbo Assembler (TASM) or compatible
+Turbo Assembler (NASM/TASM) or compatible
 
 x86/x88 compatible processor
 
